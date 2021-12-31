@@ -6,4 +6,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{IroshanDhananjaya}/count.svg)
 
-![image](https://github.com/IroshanDhananjaya/IroshanDhananjaya/tree/master/assets/images/mypic.jpg)
+![image](assets/images/mypic.jpg)
