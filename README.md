@@ -24,3 +24,8 @@ Github Stats 🧐
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IroshanDhananjaya&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IroshanDhananjaya&theme=github_dark"/>
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
